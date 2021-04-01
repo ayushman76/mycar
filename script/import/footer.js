@@ -70,7 +70,7 @@ document.querySelector('footer').innerHTML+=`
 		   <div class="col-md-4">
 			  <div class="my_last">
 				 <ul class="navbar-nav nav pad-10">
-					<li><a href="#">Â© 2021 Girnar Software Pvt. Ltd.</a></li>
+					<li><a href="#">© 2021 Girnar Software Pvt. Ltd.</a></li>
 				 </ul>
 			  </div>
 		   </div>
